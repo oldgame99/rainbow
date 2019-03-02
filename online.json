@@ -10,15 +10,18 @@
   "homePageAdType": "admob",
   
   "homePageAppAdObject": {
-    "appId": "com.goblin.sword",
+    "appId": "rainbow.filter.effect.app",
     "appName": "Goblin Special Effects",
-    "appUrl": "market://details?id=com.goblin.sword",
+    "appUrl": "market://details?id=rainbow.filter.effect.app",
     "featureUrl": "https://raw.githubusercontent.com/oldgame99/rainbow/master/promotion/res/ads_cover_heart_face_camera.png",
-    "iconUrl": "https://lh3.googleusercontent.com/DOvW4QVPUASTMlkj5TguE56RR_KU9czP84quHMcfOg4S5cPKdi9JYpbiKuQdfAmvL2I=s180-rw",
-    "link": "market://details?id=com.goblin.sword",
-    "pubName": "DRACARTS",
-    "description": "Download & join over 2 Million users of Goblin Special Effects..."
+    "iconUrl": "https://lh3.googleusercontent.com/AuxahBwtjQ7pA-kb01phz_0udHjTsX1bqWQEzklbdzLIjrra79dnLlkCT80Y-2quVg=s180-rw",
+    "link": "market://details?id=rainbow.filter.effect.app",
+    "pubName": "LaboDroid",
+    "description": "Rainbow Filter App - Give your photos the charm of nature..."
   },
+  
+
+
   
   "promotion": [
   	
