@@ -321,7 +321,16 @@
       "price": "0",
       "size": "24",
       "color": "#FFFFFF"
+    },
+    {
+      "id": "r005",
+      "name": "Glitter_Frames",
+      "link": "https://raw.githubusercontent.com/oldgame99/realrainbow/master/res/frame/Glitter_Frames/",
+      "price": "0",
+      "size": "20",
+      "color": "#FFFFFF"
     }
+	
   ],
 
   "resPoster": [
