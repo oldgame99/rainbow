@@ -1,0 +1,34 @@
+{
+   "data":[
+      {
+         "id":"2",
+         "app_name":"Hunter Hero",
+         "pkg_name":"commando.fire.squadr.assassin",
+         "ban_id":"",
+         "int_id":"ca-app-pub-3940256099942544\/1033173712",
+         "native_id":"",
+         "rewarded_id":"ca-app-pub-3940256099942544\/5224354917",
+         "admob_banner":"",
+         "admob_int":"",
+         "admob_reword":"0",
+         "app_ver_code":"3",
+         "app_ver_name":"1.2",
+         "app_min_ver_code":"16",
+         "ASHAS_key":";",
+         "AFP_key":"",
+         "isUNITY":"true",
+         "isActive":"true"
+      }
+   ],
+   "admob_data":[
+      {
+         "id":"1",
+         "app_name":"Hunter Hero",
+         "pkg_name":"commando.fire.squadr.assassin",
+         "banner_id":"ca-app-pub-3940256099942544\/6300978111",
+         "int_id":"ca-app-pub-3940256099942544\/1033173712",
+         "rewarded_id":"ca-app-pub-3940256099942544\/5224354917",
+         "native_id":""
+      }
+   ]
+}
