@@ -1,22 +1,22 @@
 {
    "data":[
       {
-         "id":"2",
-         "app_name":"Hunter Hero",
-         "pkg_name":"commando.fire.squadr.assassin",
+         "id":"1",
+         "app_name":"Gujarati Recipe",
+         "pkg_name":"developers.sr.gujaratiracipefast",
          "ban_id":"",
-         "int_id":"ca-app-pub-3940256099942544\/1033173712",
+         "int_id":"",
          "native_id":"",
-         "rewarded_id":"ca-app-pub-3940256099942544\/5224354917",
+         "rewarded_id":"",
          "admob_banner":"",
          "admob_int":"",
          "admob_reword":"0",
          "app_ver_code":"3",
          "app_ver_name":"1.2",
-         "app_min_ver_code":"16",
-         "ASHAS_key":";",
-         "AFP_key":"",
-         "isUNITY":"true",
+         "app_min_ver_code":"15",
+         "ASHAS_key":"015cead6e55a94aaf936be1eaa33137c78f7caed;",
+         "AFP_key":"ed1883887cc0b61a0f9183289e42e8a6",
+         "isUNITY":"false",
          "isActive":"true"
       }
    ],
@@ -24,7 +24,7 @@
       {
          "id":"1",
          "app_name":"Hunter Hero",
-         "pkg_name":"commando.fire.squadr.assassin",
+         "pkg_name":"assassin.hunter.assassinhunter.Walkthrough",
          "banner_id":"ca-app-pub-3940256099942544\/6300978111",
          "int_id":"ca-app-pub-3940256099942544\/1033173712",
          "rewarded_id":"ca-app-pub-3940256099942544\/5224354917",
